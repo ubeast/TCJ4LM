@@ -1,6 +1,6 @@
 
 
-A personal experiment, nobody else depends on it
+A personal experiment, nobody else depends on it<br>
 `PLAYGROUND/<your-username>` |
 
 Reusable docs, code, business rules, CI config, or a project scaffold used by 2+ products | `COMMON/` (see which specific repo below) |
