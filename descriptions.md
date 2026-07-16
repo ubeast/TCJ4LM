@@ -1,5 +1,30 @@
 
 
+A personal experiment, nobody else depends on it
+`PLAYGROUND/<your-username>` |
+
+Reusable docs, code, business rules, CI config, or a project scaffold used by 2+ products | `COMMON/` (see which specific repo below) |
+
+Team-level, multiple contributors, not yet owned like a product | `LABS/<name>` |
+
+An owned product with a real owner and users | `PRODUCTS/<name>` |
+
+Something other products are generated off of / depend on (e.g. SDDB) | `PRODUCTS/<name>`, flagged as a **foundation product** |
+
+A one-off response to a specific data request (RFI) | `RFIS/rfi-<year>-<sequence>-<short-slug>` |
+
+Internal training/enablement material (e.g. the Git/GitLab class) | `COMMON/<training-project-name>` — flat, no subgroup, unless multiple classes accumulate |
+
+A live workspace for one training cohort's exercises | `LABS/<training-project-name>-<year>-<cohort-id>` |
+
+Pre-migration backup (Advana requirement) | `ARCHIVE/` |
+
+Genuinely doesn't fit any row above | Don't create it yourself — see Exceptions in `where-does-this-go.md` |
+
+
+
+
+
 
 
 # TC4JLM GitLab Structure — Complete Listing
