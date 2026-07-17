@@ -1,6 +1,6 @@
 # j4lm-pylib
 
-> Questions or comments? Contact [Name] — [email] — GitLab: @[username]
+> Questions or comments? Contact Michael Schertz — michael.schertz.civ@mail.mil
 
 Shared Python utility library used across TC4JLM products.
 
