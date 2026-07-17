@@ -1,3 +1,3 @@
-RFIS holds one-off responses to specific data requests, not ongoing products. One project per request, named rfi-year-sequence-slug. If the same request keeps recurring, promote it to LABS or PRODUCTS instead. See where-does-this-go.md in COMMON guidance for details.
+COMMON holds shared resources used across all products: docs, the shared Python library, shared business rules, CI templates, training material, and project templates. See where-does-this-go.md in COMMON guidance for what goes in each specific project.
 
 Contact: Michael Schertz, michael.schertz.civ@mail.mil
