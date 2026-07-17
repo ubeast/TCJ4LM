@@ -1,5 +1,7 @@
 # j4lm-pylib
 
+> Questions or comments? Contact [Name] — [email] — GitLab: @[username]
+
 Shared Python utility library used across TC4JLM products.
 
 ## Overview
