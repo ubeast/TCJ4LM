@@ -1,33 +1,9 @@
-# LABS
+LABS is for team-level, pre-product work involving 2 or more contributors that does not yet have a formal owner, delivery target, or SLA. That uncertainty is expected here, not a gap to fix before starting.
 
-> **Questions or comments? Contact:** Michael Schertz — michael.schertz.civ@mail.mil
+If something is a known product from day one, with an owner and delivery target already set, it should go directly to PRODUCTS instead. LABS is not a mandatory first step. See where-does-this-go.md in COMMON guidance for the full decision path.
 
-Team-level, pre-product work — multiple contributors, not yet owned like
-a product.
+To start a new initiative, create a project directly under LABS, named for what it is. Its README should include a contact line, a one line description of what it explores, current status, and a note that it moves to PRODUCTS once it earns that status.
 
-## What belongs here
+An initiative moves to PRODUCTS once it has a real owner, real users, or a delivery target. If it sits with no real progress for about six months, revisit it and either push it toward graduation or archive it.
 
-An initiative belongs in LABS when:
-
-- It's real work, involving 2+ people — not one person's personal
-  experiment (that's `PLAYGROUND` instead)
-- It doesn't yet have a formal owner, committed delivery target, or SLA —
-  that uncertainty is expected here, not a gap to fix before starting
-
-If something is a known product from day one (owner assigned, delivery
-target known), it should go directly to `PRODUCTS/<name>` instead —
-LABS isn't a mandatory first stop. See `where-does-this-go.md` in
-`COMMON/guidance` for the full decision path.
-
-## Starting a new initiative
-
-Create a project directly under `LABS`, named for what it is
-(`LABS/<name>`). See the LABS project template for the standard README
-structure to start from.
-
-## Graduation
-
-An initiative moves to `PRODUCTS/<name>` once it has a real owner, real
-users, and/or a delivery target. If something sits with no real progress
-for a long stretch (~6 months), revisit it — either push toward
-graduation or archive it.
+Questions or comments, contact Michael Schertz, michael dot schertz dot civ at mail dot mil.
