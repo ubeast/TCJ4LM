@@ -1,3 +1,3 @@
-LABS is for team-level, pre-product work with 2+ contributors and no formal owner or delivery target yet. Known products should go directly to PRODUCTS instead. See where-does-this-go.md in COMMON guidance for the full decision path and how to start an initiative.
+PLAYGROUND is for individual, unsupported experimentation. Each person has their own subgroup here, holding their own project(s). Not for anything other people depend on. If a second person actually starts using something here, move it to LABS. See where-does-this-go.md in COMMON guidance for details.
 
 Contact: Michael Schertz, michael.schertz.civ@mail.mil
